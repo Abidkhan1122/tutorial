@@ -1,0 +1,1 @@
+<h6 class="card-title">Latest posts</h6>
